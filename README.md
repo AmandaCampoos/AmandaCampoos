@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amanda Campos Ximenes
+# 👋 Hi, I'm Amanda Ximenes
 
 ## 🚀 About Me
 - 🌱 Currently studying: 6/6 Internet Systems at the Federal Institute of Mato Grosso do Sul.
