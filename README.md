@@ -5,8 +5,9 @@
 - 👀 Interests: Networks, Cloud Infrastructure, and DevOps.
 - 🛠️ Tech Stack:
   - **Frontend**: HTML, CSS, JavaScript
+  - **Linguaguens**: Python 
   - **DevOps & Cloud**: AWS, Docker, Linux, Git
-  - **Tools**: Trello, Postman, Apache Maven
+  - **Tools**: Trello, Postman
 
 ## 🛠️ Tech Stack
 <p align="left">
@@ -24,5 +25,21 @@
 - 📧 Email: amandacamposx2@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/amanda-campos-ximenes-a02ab8266/
 - 🌐 Portfolio: Em breve...
+
+---
+
+## 📊 GitHub Stats & Contributions
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmandaCampoos&show_icons=true&theme=tokyonight" alt="Amanda's GitHub Stats"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmandaCampoos&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaCampoos&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 
