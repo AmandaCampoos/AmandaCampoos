@@ -4,10 +4,10 @@
 - 🌱 Currently studying: 6/6 Internet Systems at the Federal Institute of Mato Grosso do Sul.
 - 👀 Interests: Networks, Cloud Infrastructure, and DevOps.
 - 🛠️ Tech Stack:
-  - **Frontend**: HTML, CSS, JavaScript
-  - **Linguaguens**: Python 
-  - **DevOps & Cloud**: AWS, Docker, Linux, Git
-  - **Tools**: Trello, Postman
+- **Frontend**: HTML, CSS, JavaScript
+- **Linguaguens**: Python 
+- **DevOps & Cloud**: AWS, Docker, Linux, Git
+- **Tools**: Trello, Postman
 
 ## 🛠️ Tech Stack
 <p align="left">
