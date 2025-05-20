@@ -8,6 +8,11 @@
 - **Linguaguens**: Python 
 - **DevOps & Cloud**: AWS, Docker, Linux, Git
 - **Tools**: Trello, Postman
+## Projetos
+🔗 **Acesse o projeto aqui:** [AdvogaBot no GitHub](https://github.com/AmandaCampoos/AdvogaBot)
+🔗 **Acesse o projeto aqui:** [CloudFiscal](https://github.com/AmandaCampoos/Cloufiscal)
+🔗 **Acesse o projeto aqui:** [Serverlles com AWS](https://github.com/AmandaCampoos/serverless_aws)
+
 
 ## 🛠️ Tech Stack
 <p align="left">
