@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Amanda Ximenes
 
 ## 🚀 About Me
-- 🌱 Currently studying: 6/6 Internet Systems at the Federal Institute of Mato Grosso do Sul.
+- 🌱  Internet Systems at the Federal Institute of Mato Grosso do Sul.
 - 👀 Interests: Networks, Cloud Infrastructure, and DevOps.
 -
 
